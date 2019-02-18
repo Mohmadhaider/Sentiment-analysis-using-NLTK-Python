@@ -16,9 +16,9 @@ nltk.download()
 
 ## Now execute following python files
 
-### Frist execute makeModel.py file. It will use sklearn classifier algorithms to classify text sentiment and generate pickle file to store trained model
+### Frist execute NLTK.py file. It will use sklearn classifier algorithms to classify text sentiment and generate pickle file to store trained model
 ```
-python makeModel.py
+python NLTK.py
 ```
 
 ### Second execute test.py file. It contains some testing sentance which call sentiment_mod file to generate sentiment, You can input your sentance also.
